@@ -19,3 +19,7 @@ El Editor de Unity presenta herramientas múltiples que permiten una edición e 
 B.Sensores acelerómetros
 
 El acelerómetro detecta la detección de movimiento basada en ejes. Detecta los cambios en la orientación de los teléfonos inteligentes con respecto a los ejes x, y y z.
+
+Video:
+
+[![Demo](http://img.youtube.com/vi/bF6bJuyzbiw/0.jpg)](http://www.youtube.com/watch?v=bF6bJuyzbiw "HoverB Sim Demo")
